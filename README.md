@@ -42,15 +42,15 @@ This project was built to solve both problems:
 ## Menu Options
 
 Below are the options with the data present in the file: 
- 1 - See the full data 
- 2 - See all the unique operations in your data 
- 3 - See the unique paths in the data 
- 4 - See paths based on operation
- 5 - See the paths based on a particular word
- 6 - Find Registry Keys Modified
- 7 - Find Dropped Files Based on File Creation + Extension Match
- 8 - I have a doubt
- 99 - To exit the program
+ 1 - See the full data </br>
+ 2 - See all the unique operations in your data </br>
+ 3 - See the unique paths in the data </br>
+ 4 - See paths based on operation</br>
+ 5 - See the paths based on a particular word</br>
+ 6 - Find Registry Keys Modified</br>
+ 7 - Find Dropped Files Based on File Creation + Extension Match</br>
+ 8 - I have a doubt</br>
+ 99 - To exit the program</br>
 
 
 ---
