@@ -64,3 +64,9 @@ Some potential future directions include:
 - Suggesting IOC (Indicator of Compromise) extractions  
 - Integrating local models for faster offline inference  
 - Exporting summaries in report-ready formats (Markdown, PDF, HTML)
+
+
+---
+
+## NOTE
+For execution, please use a google API key if possible. If you have difficulties in getting a key, email me @ - maitreya.niranjan@tamu.edu
