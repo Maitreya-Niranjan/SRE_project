@@ -1,6 +1,6 @@
 # SRE_project
 
-An interactive CLI tool to help analyze malware-related behavior in **Procmon logs**, with a built-in feature to directly ask **LLM-powered cybersecurity questions** using the Hugging Face Inference API.
+An interactive CLI tool to help analyze malware-related behavior in **Procmon logs**, with a built-in feature to directly ask **LLM-powered cybersecurity questions** using the Google API.
 
 ---
 
@@ -25,8 +25,8 @@ That’s what inspired this project:
 -  Extract unique operations or paths
 -  Identify dropped `.exe`, `.dll`, `.dat`, and other files
 -  Detect modified **registry keys**
--  Ask doubts in plain English — answered by a Hugging Face-hosted LLM
--  Uses the internet via Hugging Face API (no local model setup)
+-  Ask doubts in plain English — answered by a Google LLM
+-  Uses the internet via Google API (no local model setup)
 
 ---
 
