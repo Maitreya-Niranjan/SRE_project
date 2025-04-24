@@ -41,7 +41,7 @@ This project was built to solve both problems:
 
 ## Menu Options
 
-Below are the options with the data present in the file: 
+Below are the options with the data present in the file: </br>
  1 - See the full data </br>
  2 - See all the unique operations in your data </br>
  3 - See the unique paths in the data </br>
